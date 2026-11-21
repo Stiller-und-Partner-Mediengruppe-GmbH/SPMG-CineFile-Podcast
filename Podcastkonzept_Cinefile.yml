@@ -1,0 +1,34 @@
+extends: default
+page:
+  margin: [120, 50, 50, 50]
+ 
+base:
+  font_color: '#000000'  
+heading:
+  font_color: '#070052'
+header:
+  height: 120
+  recto:
+    center:
+      content:  
+        image:images/Header.png[pdfwidth=500]
+  verso:
+    center:
+      content:  
+        image:images/Header.png[pdfwidth=500]
+footer:
+  font_size: 9
+  recto:
+      left:
+        content: "SPMG"
+      center:
+        content: "{chapter-title}"
+      right: 
+        content: "{page-number} von {page-count}"
+  verso:
+      left: 
+        content: "{page-number} von {page-count}"
+      center: 
+        content: "{chapter-title}"
+      right:
+        content: "SPMG"

@@ -1,0 +1,9 @@
+= 1 Projektvorschlag Podcast "CineFile"
+
+== 1.1 Vorwort 
+Das vorliegende Projekt wird unter Beachtung sämtlicher einschlägiger Rechtsnormen, insbesondere des Urheberrechtsgesetzes (UrhG) und des Markengesetzes (MarkenG), umgesetzt. Sämtliche im Rahmen des Projekts geschaffenen Werke, einschließlich, jedoch nicht beschränkt auf Texte, Bilder, Grafiken, audiovisuelle Inhalte sowie sonstige schöpferische Leistungen, unterliegen vollumfänglich den Urheberrechten der Stiller und Partner Mediengruppe GmbH als alleiniger Rechtsträger.
+Inhalte, Werke oder Kennzeichen, die von Drittparteien stammen, verbleiben im ausschließlichen Urheber- bzw. Markenrecht des jeweiligen Rechteinhabers. Eine Nutzung erfolgt ausschließlich im Rahmen der gesetzlichen Schrankenbestimmungen oder auf Grundlage ordnungsgemäß erworbener Nutzungsrechte.
+Jegliche Nennung, Abbildung oder sonstige Bezugnahme auf Drittparteien oder deren Produkte, Dienstleistungen oder Marken dient ausschließlich der inhaltlichen Darstellung und ist weder als Werbung im rechtlichen Sinne (§ 2 Abs. 1 Nr. 1 UWG) noch als kennzeichenmäßige Nutzung im Sinne des Markenrechts (§ 14 MarkenG) zu verstehen.
+
+== 1.2 Haftungsklausel
+Die **Stiller und Partner Mediengruppe GmbH** übernimmt keine Haftung für Rechtsverletzungen, die durch die unbefugte Nutzung oder fehlerhafte Kennzeichnung von Inhalten durch Dritte entstehen. Verantwortlich für die rechtmäßige Einbringung und Verwendung von Drittmaterialien im Rahmen des Projekts sind ausschließlich die jeweiligen Ersteller oder Einreicher. Der Projektträger wird von sämtlichen Ansprüchen Dritter freigestellt, die aus der rechtswidrigen Verwendung von Inhalten durch externe Beteiligte resultieren.

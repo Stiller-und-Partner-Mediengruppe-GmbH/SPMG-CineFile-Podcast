@@ -1,0 +1,136 @@
+= 2 Projektplan
+
+[cols="1,1,1,1"]
+|===
+|*Projektname:* |Cinephile 2.2+^.^| image:logo.svg[Logo,120]
+|*Projektart:* |Podcast
+|*Projektteam:* |Bojan Markovic |*Projektteamleiter:* |Sebastian Stiller
+|*Projektstart:* |TBA |*Projektende:* |TBA
+|===
+
+== 2.1 Beschreibung
+Der Projektinhalt ist die Erstellung und Veröffentlichung eines Multimedialen Produktes der Kategorie Podcast und dem Titel: „Cinephile“(Name noch nicht offiziell). Inhalt dieses Podcast ist die grundsätzliche Geschichte und Entwicklung der Filmindustrie, Lieblingsfilme, Aktuelle Filmveröffentlichungen, zukünftige Filmveröffentlichungen und generell Aktuelle Ereignisse in den Bereichen Film, Fernsehen, Musik, Streaming und vieles mehr. 
+Die Episoden sollen eine grundlegende Dauer von jeweils 60 Minuten (± 10 % = 54 – 66 Minuten) nicht überschreiten. Die Episoden sollen zudem, wenn es die Möglichkeit des Projektteams ist, in einem 1-2 Wochen Rhythmus erscheinen. Der genaue Veröffentlichungszeitraum wird zu einem späteren Zeitpunkt fixiert. Ein Vorschlag wäre hierbei der Samstag als Aufzeichnungstag und der Mittwoch als „Ausstrahlungstag“ bzw. Veröffentlichungstag
+
+== 2.2 Farbschema 
+Das Farbschema für den Podcast ist wie folgt angelegt. 
+
+[cols="3,2,2,2,1", options="header"]
+|===
+|Funktion
+|Hex-Code
+|Pantone Code
+|RGB-Code
+|Farbe
+
+|Hauptfarbe
+|#070052
+|19-3942 TCX
+|RGB(7,0,82)
+|&#160;
+
+|Akzentfarbe
+|#2D2491
+|19-3954 TCX
+|RGB(45,36,145)
+|&#160;
+
+|Lichtfarbe (Hauptbeleuchtung)
+|#A79638
+|16-0541 TCX
+|RGB(167,150,56)
+|&#160;
+
+|Lichtfarbe (Sekundärbeleuchtung)
+|#524500
+|P 165-16 C
+|RGB(82,69,0)
+|&#160;
+
+|Hintergrundfarbe
+|#7169D1
+|17-3940 TCX
+|RGB(113,105,209)
+|&#160;
+|===
+
+== 2.3 Ablauf
+
+=== 2.3.1 Episodenablauf Generell
+Jede Episode hällt sich an die folgenden Grundstruktur (Ausnahmen: Spezials (Spezialepisoden) siehe Abschnitt 2.3.2 unten )
+
+
+
+[plantuml, agenda_episodes, svg]
+----
+@startuml
+left to right direction
+
+skinparam backgroundColor transparent
+skinparam defaultFontName Arial
+skinparam defaultFontSize 14
+skinparam shadowing false
+skinparam roundcorner 18
+
+skinparam rectangle {
+    BackgroundColor #070052
+    BorderColor #54789A
+    FontColor #ffffff
+}
+
+skinparam ArrowColor #070052
+skinparam Arrowbordercolor #54789A
+skinparam ArrowThickness 4
+
+rectangle "Begrüßung" as A
+rectangle "Themenvorstellung" as B
+rectangle "Gäste" as C
+rectangle "Themen" as D
+rectangle "Verabschiedung" as E
+
+A --> B
+B --> C
+C --> D
+D --> E
+
+@enduml
+----
+
+
+
+=== 2.3.2 Episodenablauf Specials 
+
+Bei Special-Folgen (2-Teilern, 3-Teilern) ist der Ablauf etwas anders. 
+Wenn es sich um die zweite oder Dritte Folge mit demselben zusammenhängenden Themenpool ist, so wird die Themenvorstellung in der Begrüßung gemacht und auch die Begrüßung und Gästevorstellung werden nur verkürzt stattfinden
+
+
+[plantuml, agenda_specials, svg]
+----
+@startuml
+left to right direction
+
+skinparam backgroundColor transparent
+skinparam defaultFontName Arial
+skinparam defaultFontSize 14
+skinparam shadowing false
+skinparam roundcorner 18
+
+skinparam rectangle {
+    BackgroundColor #070052
+    BorderColor #54789A
+    FontColor #ffffff
+}
+
+skinparam ArrowColor #070052
+skinparam ArrowThickness 4
+
+rectangle "Begrüßung mit Themen- und Gästevorstellung" as A
+rectangle "Themen" as D
+rectangle "Verabschiedung" as E
+
+A --> D
+D --> E
+
+@enduml
+----
+

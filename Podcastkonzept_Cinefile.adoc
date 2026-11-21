@@ -1,0 +1,69 @@
+:doctype: book
+:toc: macro
+:toclevels: 5
+:source-highlighter: highlight.js
+:icons: font
+:pdf-theme: Podcastkonzept_Cinefile.yml
+:imagesdir: images
+:pdf-page-size: a4
+:toc-title: I. Inhaltsverzeichnis
+:lang: DE
+:hyphens:
+:author: Sebastian Andreas Stiller
+:docdate: {docdate}
+:title: Podcastkonzept - CineFile 
+:title-logo-image: image:logo.svg[pdfwidth=100, align=center]
+:sectnums:
+:sectnumlevels: 0
+:title-page:
+:chapter-label:
+:table-caption: Tabelle
+:table-grid: all
+:table-stripes: all
+
+
+=  Podcastkonzept - CineFile 
+{author} +
+In der Fassung vom {docdate}
+
+toc::[levels=5]
+
+== II. Vorwort
+Die Stiller und Partner Mediengruppe GmbH/Holding (SPMG) ist ein innovatives Medien und Unterhaltungsunternehmen, das sich auf die Entwicklung und Produktion von hochwertigen Multi-Medialen Inhalten spezialisiert hat. In diesem Dokument wird das Projekt "Cine-File: Der Medien Podcast" dargelegt. 
+
+=== II.1 Haftung und Geheimhaltung
+Die Informationen in diesem Dokument sind vertraulich und dürfen nicht ohne ausdrückliche schriftliche Genehmigung der Stiller und Partner Mediengruppe GmbH/Holding (SPMG), vertreten durch  **Sebastian Andreas Stiller (CCO)** und **Bojan Markovic**, an Dritte weitergegeben oder veröffentlicht werden. 
+
+=== II.2 Urheberrecht und geistiges Eigentum
+
+**Alle Inhalte**, einschließlich, aber nicht beschränkt auf **Texte**, **Grafiken**, **Bilder**, **Logos**, **Marken**, **Designs**, **Software** und andere Materialien in diesem Dokument oder anderen Veröffentlichungen sind Eigentum der SPMG, vertreten durch den Gründer und CCO **Sebastian Andreas Stiller**, und sind durch Urheberrechtsgesetze und andere geistige Eigentumsrechte geschützt. 
+
+Die SPMG, vertreten durch den Gründer und CCO **Sebastian Andreas Stiller**, behält sich alle Rechte vor, die nicht ausdrücklich in diesem Dokument gewährt werden. Jede unautorisierte Nutzung, Vervielfältigung, Verbreitung oder Veröffentlichung von Inhalten aus diesem Dokument oder anderen Veröffentlichungen der SPMG, vertreten durch den Gründer und CCO **Sebastian Andreas Stiller**, ist strengstens untersagt und kann rechtliche Konsequenzen nach sich ziehen.
+
+=== II.3 Marken und Logos
+SPMG und das SPMG-Logo sind eingetragene Marken der Stiller und Partner Mediengruppe GmbH/Holding (SPMG), vertreten durch den Gründer und CCO **Sebastian Andreas Stiller**. Alle anderen in diesem Dokument oder anderen Veröffentlichungen der SPMG, vertreten durch den Gründer und CCO **Sebastian Andreas Stiller**, erwähnten Markennamen, Produktnamen, Dienstleistungsmarken oder Firmennamen sind Eigentum ihrer jeweiligen Inhaber.
+
+=== II.4 Haftungsausschluss
+Die Informationen in diesem Dokument werden "wie besehen" bereitgestellt, ohne jegliche ausdrückliche oder stillschweigende Gewährleistung. Die SPMG, vertreten durch den Gründer und CCO **Sebastian Andreas Stiller**, übernimmt keine Verantwortung für die Genauigkeit, Vollständigkeit oder Aktualität der Informationen in diesem Dokument oder anderen archivierten Veröffentlichungen. Jegliche Nutzung der Informationen in diesem Dokument ab Veröffentlichung erfolgt auf eigenes Risiko.
+
+== III. Kontakt 
+Für weitere Informationen oder Anfragen bezüglich der Stiller und Partner Mediengruppe GmbH/Holding (SPMG) können Sie uns unter den folgenden Kontaktdaten erreichen:
+
+Ansprechpartner: **Sebastian Andreas Stiller** (CCO)
+
+* **Adresse**: To be Announced
+* **Telefon**: +43 660 2084555
+* **E-Mail**: mailto:kontakt@sebastianstiller.at[kontakt@sebastianstiller.at]
+
+Ansprechpartner: **Bojan Markovic**
+
+* **Adresse**: To be Announced
+* **Telefon**: 
+* **E-Mail**: mailto:kontakt@sebastianstiller.at[kontakt@sebastianstiller.at]
+
+
+include::chapters/1_introduction.adoc[]
+
+include::chapters/2_proposal.adoc[]
+
+include::chapters/3_Distribution.adoc[]
